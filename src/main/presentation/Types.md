@@ -15,8 +15,8 @@ Set of rules that assigns a property called a `type` to the various constructs o
   
 # DW Use
 
-- Type Check: 
-    - Validate that all the rules are being satisfied at design time to avoid Runtime Errors.
+- Design time: 
+    - Validate that all the rules are being satisfied to avoid Runtime Errors.
     - Autocompletion suggest the rights set of functions
 - Runtime: Discriminates values based on the rules of the type system.
     
