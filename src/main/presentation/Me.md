@@ -1,6 +1,6 @@
 # ME
 
-![Leandro Shokida](https://raw.githubusercontent.com/machaval/data-weave-typestalk-/master/images/shoki.png)
+![Leandro Shokida](https://raw.githubusercontent.com/machaval/data-weave-typestalk-/master/images/shoki.jpg)
 
 - Leandro Shokida
 - 10 Years at Mule
