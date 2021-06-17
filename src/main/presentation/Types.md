@@ -28,6 +28,10 @@ Set of rules that assigns a property called a `type` to the various constructs o
 - **SUM Types**: Union or Intersection
 - **Type Parameters**: Customize types
 
+# Backstory
+
+Why did we add a Type System?
+
 # Play Time
 
 ![Time To Play](https://raw.githubusercontent.com/machaval/data-weave-typestalk-/master/images/playTime.jpg)
