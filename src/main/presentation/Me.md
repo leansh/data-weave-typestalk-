@@ -1,20 +1,18 @@
 # ME
 
-![Mariano de Achaval](https://raw.githubusercontent.com/machaval/data-weave-typestalk-/master/images/me.png)
+![Leandro Shokida](https://raw.githubusercontent.com/machaval/data-weave-typestalk-/master/images/shoki.png)
 
-- Mariano Achaval 
-- 9 Years at Mule
-- twitter: @machaval
+- Leandro Shokida
+- 10 Years at Mule
 
 
 # Work
 
-- Working in DW since day 0
+- Working in DW since the first year
 - Previously:
-  - DataMapper
-  - Debugger
   - Studio
-  - Raml
+  - Debugger
+
     
 
 # Disclaimer
