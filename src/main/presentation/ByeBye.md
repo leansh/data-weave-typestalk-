@@ -2,6 +2,6 @@
 
 - Playground:
   - `dw --eval --spell Playground`
-- Tutorial: _Coming soon_ 
+- Tutorial: 
   - Thanks @jerney for helping with the content
-  - http://dwlang.fun (Pre Alpha and unstable)  
+  - https://developer.mulesoft.com/learn/dataweave (Beta)  
